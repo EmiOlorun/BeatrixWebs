@@ -50,3 +50,35 @@ body, html {
   background-color: #555;
   color: white;
 }
+
+.work{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color: #555;
+}
+
+.subheading{
+    color: green;
+}
+
+.nav-pills .nav-link {
+  background-color: white;
+  color: black;  
+  font-weight: bold;
+  border-color: black;
+}
+
+.nav-link:hover {
+  color: black !important;
+  text-decoration: none !important;
+}
+
+.nav-pills .nav-link.active {
+  background-color: #4b8b5a !important; 
+  color: white;              
+  font-weight: bold;
+}
+
+.nav-pills .nav-link.active:hover {
+    color: white !important;
+}
