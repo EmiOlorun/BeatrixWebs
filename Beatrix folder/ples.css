@@ -82,3 +82,24 @@ body, html {
 .nav-pills .nav-link.active:hover {
     color: white !important;
 }
+
+#locked-textarea{
+    height: 150px;
+    resize: none;
+}
+
+.image-wrap{
+    background-image: url(best-05.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    width: 100%;
+}
+
+.text-wrap{
+
+    transform: translate(-2%, 30%);
+
+}
